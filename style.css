@@ -1,0 +1,17 @@
+.heading{
+    font-size: 25px;
+    width: 80%;
+}
+body{
+    background-color: lightskyblue;
+}
+.people{
+    font-size: 15px;
+    width: 65%;
+    color: maroon;
+}
+#camera{
+    border:2px dashed black;
+    width: 350px;
+    height: 300px;
+}
